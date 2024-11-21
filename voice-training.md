@@ -1,4 +1,4 @@
-# Voice Training Guide
+# Voice Training Resources
 
 Voice training is focused on two main goals:
 1. Developing a voice that is authentically yours.

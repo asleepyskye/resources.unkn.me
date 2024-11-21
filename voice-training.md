@@ -72,7 +72,7 @@ Voice training is focused on two main goals:
   - *Note*: Avoid over-focusing on pitch measurements; they are less important than overall resonance and cadence.
 
 - **SOVTs (Semi-Occluded Vocal Tract Exercises)**  
-  - Learn about SOVTs: [Google for Examples](https://www.google.com)  
+  - These are such powerhouses in the vocal exercise world for vocal health- like a massage for your throat! - Google for examples
   - Example Video: [Warmup with SOVTs](https://www.youtube.com/watch?v=38gE8kg__NU)
 
 ---
@@ -85,3 +85,5 @@ Voice training is focused on two main goals:
 ---
 
 By exploring these resources and taking care of your voice, you'll be on your way to developing a confident and authentic voice that suits you. Happy training!
+
+*guide by @Chimpo*

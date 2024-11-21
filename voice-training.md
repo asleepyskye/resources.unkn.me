@@ -55,7 +55,7 @@ Although this guide is primarily for voice feminization, I will also make notes 
 
 5. **TransVoiceLessons**  
   - Large note for this channel. This channel is generally the first people come across on YouTube when looking up "Trans Voice Training MTF". It is also the most commonly watched as such, and the "Heat from Fire, Fire from Heat" meme mostly comes from this channel. That being said, the introductory videos are often a bit higher level than works for most people. It covers a lot of good content, and *is* incredibly informative, however, lots of the videos are too high of bar for entry for most.
-   - Channel: https://www.youtube.com/@TransVoiceLessons
+   - Channel: [TransVoiceLessons](https://www.youtube.com/@TransVoiceLessons)
    - Videos:  
      - [Video 1](https://www.youtube.com/watch?v=8sMXeh5Sx7k)  
      - [Video 2](https://www.youtube.com/watch?v=xdsaPJdU24s)  

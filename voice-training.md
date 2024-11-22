@@ -1,6 +1,6 @@
-<title>Chimpo’s Voice Training Resources and General Guide</title>
+title: Chimpo’s Voice Training Resources and General Guide
 <meta content="Chimpo’s Voice Training Resources and General Guide" property="og:title" />
-<meta content="Site Description" property="og:description" />
+<meta content="A lil guide + resources on voice training written by @chimpo_" property="og:description" />
 <meta content="https://res.unkn.me/voice-training" property="og:url" />
 <meta content="https://res.unkn.me/trans-flag.png" property="og:image" />
 <meta content="#F5A9B8" data-react-helmet="true" name="theme-color" />

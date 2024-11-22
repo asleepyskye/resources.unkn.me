@@ -1,3 +1,4 @@
+<title>Chimpo’s Voice Training Resources and General Guide</title>
 <meta content="Chimpo’s Voice Training Resources and General Guide" property="og:title" />
 <meta content="Site Description" property="og:description" />
 <meta content="https://res.unkn.me/voice-training" property="og:url" />

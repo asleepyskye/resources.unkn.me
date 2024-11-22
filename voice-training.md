@@ -1,10 +1,13 @@
 # Chimpo's Voice Training Resources and General Guide
 
-The goal of this voice training guide is such.
-1. Developing a voice that is authentically yours.
-2. Making that voice your default, natural way of speaking.
+The goals I have for this website is that you can-
+1. Develop a voice that is authentically yours.
+2. Make that voice your default, natural way of speaking.
 
-Although this guide is primarily for voice feminization, I will also make notes of resources for resources on voice masculinization. These will work for voice androgynization as well.
+Although I as an individual have most amount of experience with voice feminization, I aim to provide resources for voice masculinization, and I will note on each what they are geared towards. These resources will work for voice androgynization as well.
+
+I do want to state up front- voice training is not a requirement to be trans! These can allow you to modify your voice to your preference and alleviate vocal dysphoria, but it's 100% amazing if you find that you don't need to, and are happy with your voice! For my gender fluid friends as well, these voice techniques can also be used to be able to allow for you to present however you want to represent yourself at any given time if you so desire!
+
 
 ## Important Guidelines
 - **Avoid Pain**: If any technique or resource is causing throat pain, stop immediately, rest your voice, and ensure you're performing the exercises correctly. Voice training should not hurt if done properly, except for some fatigue from increased voice usage.
@@ -26,7 +29,27 @@ Although this guide is primarily for voice feminization, I will also make notes 
  
 ---
 
-## Resources for Voice Training
+## Online Resources
+- **Other User Guides**  
+  - [Transgender Teen Survival Guide on Tumblr](https://transgenderteensurvivalguide.com/post/165875705735/transfeminine-voice-the-links-below-have-a-little)
+    - For both masculinization and feminization
+  - [LS Voice Training Guide (Level 1) on Reddit](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)  
+    - Note: A thorough vocal feminization guide, though somewhat verbose. *Skip the "hold on the swallow" exercise*, as it can harm your throat.
+  - [Romeos Trans Masc Voice Training Guide](https://old.reddit.com/r/transvoice/comments/ni2igv/romeos_trans_masculine_voice_training_guide/)
+    - Fantastic vocal Masculinization guide, Can heavily recommend the approach
+  - [Selene Da Silva Clip archive](https://selenearchive.github.io/) 
+    - Absolutely fantastic resource, can highly recommend it from what I've listened to, uses a little bit different terminology than many other resources, but still fantastic! Primarily for voice feminization, but all the principles are able to be applied for masculinization as well.
+- **Papers, and Non-audio guides**  
+  - [Voice Training Papers on Imgur](https://imgur.com/a/ST9pr)
+
+- **Resonance and Pitch Tools**  
+  - [Acoustic Gender Tool](https://acousticgender.space/)  
+  - [Speech Cadence Tool](https://www.speechandhearing.net/laboratory/ampitch/)  
+  - *Note*: Avoid over-focusing on pitch measurements on these; pitch is less important than overall resonance and cadence. These work well for both masculinization and feminization
+
+---
+
+## Video Resources
 
 ### YouTube Channels
  - All of these youtube channels have resources for both masculinization and feminization, unless marked otherwise in the notes.
@@ -50,7 +73,7 @@ Although this guide is primarily for voice feminization, I will also make notes 
    - Channel: [Deepstealth](https://www.youtube.com/user/deepstealth/videos)  
 
 4. **Olivia Flanigan**  
-  - Same situation as Deepstealth, I haven't watched many of the videos, just know people that like them
+  - Same situation as Deepstealth, I haven't watched many of the videos, just recommended by friends of mine.
    - Channel: [Olivia Flanigan](https://www.youtube.com/@oliviaflanigan5938)  
 
 5. **TransVoiceLessons**  
@@ -59,6 +82,10 @@ Although this guide is primarily for voice feminization, I will also make notes 
    - Videos:  
      - [Video 1](https://www.youtube.com/watch?v=8sMXeh5Sx7k)  
      - [Video 2](https://www.youtube.com/watch?v=xdsaPJdU24s)  
+
+6. **Vocal Team**
+   - Newer channel, the videos I've watched so far are fantastic
+    - Channel: [Vocal Team](https://www.youtube.com/@vocal-team/videos)
 
 ---
 
@@ -75,21 +102,7 @@ Although this guide is primarily for voice feminization, I will also make notes 
 
 ---
 
-### Non-YouTube Resources
-- **Other User Guides**  
-  - [Transgender Teen Survival Guide on Tumblr](https://transgenderteensurvivalguide.com/post/165875705735/transfeminine-voice-the-links-below-have-a-little)
-   - For both masculinization and feminization
-  - [LS Voice Training Guide (Level 1) on Reddit](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)  
-    - Note: A thorough guide, though somewhat verbose. *Skip the "hold on the swallow" exercise*, as it can harm your throat.
-- **Comprehensive Paper Guides**  
-  - [Voice Training Papers on Imgur](https://imgur.com/a/ST9pr)
-
-- **Resonance and Pitch Tools**  
-  - [Acoustic Gender Tool](https://acousticgender.space/)  
-  - [Speech Cadence Tool](https://www.speechandhearing.net/laboratory/ampitch/)  
-  - *Note*: Avoid over-focusing on pitch measurements on these; pitch is less important than overall resonance and cadence. These work well for both masculinization and feminization
-
----
+## Miscellaneous notes
 
 ### Voice Lessons
   - Depending on your situation, there are ways to do in person or online voice lessons. If you are able to go this route, it can be significantly more effective, as being able to see what your throat is doing, as well as the instant feedback can be monumental for helping some people with voice training. It can also provide motivation. To find these, look up online for transgender voice therapists or coaches in your area.

@@ -1,4 +1,6 @@
+---
 title: Chimpo’s Voice Training Resources and General Guide
+---
 <meta content="Chimpo’s Voice Training Resources and General Guide" property="og:title" />
 <meta content="A lil guide + resources on voice training written by @chimpo_" property="og:description" />
 <meta content="https://res.unkn.me/voice-training" property="og:url" />

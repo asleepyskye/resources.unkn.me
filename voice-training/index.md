@@ -40,11 +40,11 @@ I do want to state up front- voice training is not a requirement to be trans! Th
 
 ## Online Resources
 - **Other User Guides**  
-	-[Adiisvcute’s Introductory Voice Training Guide](https://www.reddit.com/r/transvoice/comments/1bydqcq/introductory_voice_training_resources_version_20/)
+	- [Adiisvcute’s Introductory Voice Training Guide](https://www.reddit.com/r/transvoice/comments/1bydqcq/introductory_voice_training_resources_version_20/)
 		- For both masculinization and feminization
 		- It’s a well rounded guide- very up to date as of the moment, but definitely on the wordier side
 		
-	-[SumianVoice](https://wiki.sumianvoice.com/wiki/pages/getting-started/)
+	- [SumianVoice](https://wiki.sumianvoice.com/wiki/pages/getting-started/)
 		- Sumi’s wiki, on voice training, good guides, more sciency, so if that works for you, amazing!
 		
 	- [Selene Da Silva Clip archive](https://selenearchive.github.io/)

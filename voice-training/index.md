@@ -51,11 +51,10 @@ I do want to state up front- voice training is not a requirement to be trans! Th
 	- Absolutely fantastic resource, can highly recommend it from what I've listened to, uses a little bit different terminology than many other resources, but still fantastic! Primarily for voice feminization, but all the principles are able to be applied for masculinization as well.
   - [DakotaAma'sVoiceTrainingGuide](https://docs.google.com/document/d/1j_-8dndFzKTX0xBSF15ZEJWdw958ryh0IPKq1sz8p04/edit?tab=t.0)
 	- A little older guide, lots of good resources
- - [Ls Voice Training Guide (Level 1) on Reddit](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)  
+  - [Ls Voice Training Guide (Level 1) on Reddit](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)  
 	- Note: A thorough vocal feminization guide, though somewhat verbose. Note: It is a bit older, and has some practices I can’t recommend - *Skip the "hold on the swallow" exercise*, as it can harm your throat-, but it works for many so still want to include it here.
   - [Romeos Trans Masc Voice Training Guide](https://old.reddit.com/r/transvoice/comments/ni2igv/romeos_trans_masculine_voice_training_guide/)
 	- Fantastic vocal Masculinization guide, A touch older, but it works well for many
-
   -[Transvoice Party](https://transvoice.party/)
             - Another resource collection I found after writing much of this page
 - **Papers, and Non-audio guides**  

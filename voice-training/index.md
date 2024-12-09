@@ -43,10 +43,10 @@ I do want to state up front- voice training is not a requirement to be trans! Th
   - [Transgender Teen Survival Guide on Tumblr](https://transgenderteensurvivalguide.com/post/165875705735/transfeminine-voice-the-links-below-have-a-little)
 	- For both masculinization and feminization
   -[Adiisvcute’s Introductory Voice Training Guide](https://www.reddit.com/r/transvoice/comments/1bydqcq/introductory_voice_training_resources_version_20/)
-            - For both masculinization and feminization
-            - It’s a well rounded guide- very up to date as of the moment, but definitely on the wordier side
+	- For both masculinization and feminization
+	- It’s a well rounded guide- very up to date as of the moment, but definitely on the wordier side
   -[SumianVoice](https://wiki.sumianvoice.com/wiki/pages/getting-started/)
-            - Sumi’s wiki, on voice training, good guides, more sciency, so if that works for you, amazing!
+	- Sumi’s wiki, on voice training, good guides, more sciency, so if that works for you, amazing!
   - [Selene Da Silva Clip archive](https://selenearchive.github.io/)
 	- Absolutely fantastic resource, can highly recommend it from what I've listened to, uses a little bit different terminology than many other resources, but still fantastic! Primarily for voice feminization, but all the principles are able to be applied for masculinization as well.
   - [DakotaAma'sVoiceTrainingGuide](https://docs.google.com/document/d/1j_-8dndFzKTX0xBSF15ZEJWdw958ryh0IPKq1sz8p04/edit?tab=t.0)
@@ -56,7 +56,7 @@ I do want to state up front- voice training is not a requirement to be trans! Th
   - [Romeos Trans Masc Voice Training Guide](https://old.reddit.com/r/transvoice/comments/ni2igv/romeos_trans_masculine_voice_training_guide/)
 	- Fantastic vocal Masculinization guide, A touch older, but it works well for many
   -[Transvoice Party](https://transvoice.party/)
-            - Another resource collection I found after writing much of this page
+	- Another resource collection I found after writing much of this page
 - **Papers, and Non-audio guides**  
   - [Voice Training Papers on Imgur](https://imgur.com/a/ST9pr)
 
